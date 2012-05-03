@@ -46,6 +46,7 @@
   },
   "scripts": {
   //  "install": "./scripts/install.sh"
+
   },
   "devDependencies": {},
   "optionalDependencies": {}
